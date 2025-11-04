@@ -3,7 +3,7 @@
 ##版本列表
 ### 1.for循环版本(`multiplication.c`)
 使用for循环实现的版本
-### 2.while循环版本
+### 2.while循环版本(`multiplication_while.c`)
 使用while循环实现的版本
 ## 功能特点
 - 打印完整的99乘法表

@@ -1,11 +1,23 @@
-# 99乘法表 - for语句实现
-这是一个用c语言编写的99乘法表程序（for语句版）
+# 99乘法表 - 两种语句实现
+这是一个用c语言编写的99乘法表程序（for语句版和while语句版）
+##版本列表
+### 1.for循环版本
+### 2.while循环版本
 ## 功能特点
 - 打印完整的99乘法表
 - 对齐美观
 - 代码简洁易懂
 ## 编译和运行
-### 用gcc直接编译
+### for循环版本
 ```bash
-gcc -o multiplication multiplication.c
-./multiplication
+# 编译
+gcc -o multiplication_for multiplication.c
+# 运行
+./multiplication_for
+### while循环版本
+```bash
+# 编译
+gcc -o multiplication_while multiplication_while.c
+# 运行
+./multiplication_while
+

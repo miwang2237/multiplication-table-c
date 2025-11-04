@@ -7,7 +7,7 @@ for(i=1;i<=9;i++)
 	for(j=1;j<=i;j++)
 		{
 		k=i*j;
-		printf("%d*%d=%d ",i,j,k);
+		printf("%d*%d=%d ",j,i,k);
 		}
 	printf("\n");
 	}
